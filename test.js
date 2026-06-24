@@ -8,7 +8,7 @@ async function test() {
       "SELECT NOW()"
     );
 
-    console.log("Database Connected ✅");
+    console.log("Database Connecteddd ✅");
     console.log(result.rows);
 
     process.exit(0);
